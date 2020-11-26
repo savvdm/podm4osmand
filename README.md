@@ -1,3 +1,9 @@
 # podm4osmand
 
-Как загрузить [карту Подмосковья](http://slazav.xyz/maps/podm_txt.htm) c <slazav.xyz> в [OsmAnd](https://osmand.net/) для автономного просмотра.
+Как загрузить [карту Подмосковья](http://slazav.xyz/maps/podm_txt.htm)
+c [slazav.xyz](http://slazav.xyz/)
+в [OsmAnd](https://osmand.net/) для автономного просмотра.
+
+Здесь описывается, как загрузить растровый вариант карты в формате `.metainfo` для OsmAnd.
+Карты в этом формате содержат тайлы в виде отдельных png файлов, организованных
+в следующую иерархию каталогов: `{z}/{x}/{y}png.tile`.
