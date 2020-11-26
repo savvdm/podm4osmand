@@ -1,0 +1,14 @@
+[url_template]
+http://slazav.xyz/tiles/podm/{x}-{y}-{z}.png
+[ext]
+png
+[min_zoom]
+5
+[max_zoom]
+14
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
